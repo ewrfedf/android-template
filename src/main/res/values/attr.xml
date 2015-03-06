@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="slidemenu">
+        <attr name="rightPadding" format="dimension"></attr>
+        <attr name="buttonNum" format="integer" />
+        <attr name="itemBackground" format="reference|color" />
+    </declare-styleable>
+ 
+
+</resources>

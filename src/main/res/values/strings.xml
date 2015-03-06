@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">trailer</string>
+    <string name="base_url">http://182.254.210.160:8081</string>
+    <string name="seller_setting_version_dailog_title">软件版本更新</string>
+    <string name="seller_setting_version_dailog_left">以后再说</string>
+    <string name="seller_setting_version_dailog_right">现在更新</string>
+</resources>
